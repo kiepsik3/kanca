@@ -1,0 +1,6 @@
+.navbar.top-nav-collapse {
+  background-color: #3b2b2b;
+}
+.navbar.top-nav-collapse li a {
+  color: white !important;
+}

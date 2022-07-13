@@ -1,0 +1,54 @@
+{
+  "name": "kanca",
+  "homepage": "https://kiepsik3.github.io/kanca/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "classnames": "^2.3.1",
+    "gh-pages": "^4.0.0",
+    "google-map-react": "^2.1.10",
+    "mdbreact": "^5.0.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "concurrently --kill-others \"less-watch-compiler src src/css --config less-watcher.config.json\" \"react-scripts start\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.0",
+    "json-server": "^0.16.3",
+    "less": "^4.1.1",
+    "less-watch-compiler": "^1.15.2"
+  }
+}

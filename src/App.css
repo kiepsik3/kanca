@@ -1,0 +1,11 @@
+@import './css/pages/Services/services.css';
+@import './css//components/Header/header.css';
+@import './css/components//Menu/menu.css';
+@import './css/typography/Paragraph/paragraph.css';
+@import './css/typography/Headlines/headlines.css';
+@import './css/components/VisualHeader/visual-header.css';
+@import './css/components/Footer/footer.css';
+
+body {
+    height: 100vh
+}

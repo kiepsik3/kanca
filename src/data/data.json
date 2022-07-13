@@ -1,0 +1,395 @@
+{
+    "menu": [{
+        "name": "Kilka faktów",
+        "slug": "/kilka-faktów"
+    }, {
+        "name": "O mnie",
+        "slug": "/o-mnie"
+    }, {
+        "name": "Kancelaria",
+        "slug": "/kancelaria"
+    }, {
+        "name": "Zakres usług",
+        "slug": "/zakres-uslug"
+    }, {
+        "name": "Niezbędne dokumenty",
+        "slug": "/niezbedne-dokumenty"
+    }, {
+        "name": "Koszty czynności",
+        "slug": "/koszty-czynnosci"
+    }, {
+        "name": "Numery kont",
+        "slug": "/numery-kont"
+    }, {
+        "name": "Kontakt",
+        "slug": "/kontakt"
+    }, {
+        "name": "Jak dojechać",
+        "slug": "/jak-dojechac"
+    }, {
+        "name": "Strefa wiedzy",
+        "slug": "/strefa-wiedzy"
+    }],
+    "services": [{
+            "id": "nieruchomosci",
+            "title": "Nieruchomości",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "lokale",
+                    "title": "Lokale",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "umowy-sprzedazy",
+                    "title": "Umowy sprzedaży",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        }, {
+            "id": "sprawy-rodzinne",
+            "title": "Sprawy rodzinne",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "umowy-majatkowe-malzenskie",
+                    "title": "Umowy majątkowe małżeńskie",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "przesuniecia-majatkowe-miedzy-malzonkami",
+                    "title": "Przesunięcia majątkowe między małżonkami",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        }, {
+            "id": "sprawy-spadkowe",
+            "title": "Sprawy spadkowe",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "testamenty",
+                    "title": "Testamenty",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "poswiadczenia-dziedziczenia",
+                    "title": "Poświadczenia dziedziczenia",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "spolki",
+            "title": "Spółki",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "spolka-cywilna",
+                    "title": "Spółka cywilna",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "spolka-jawna",
+                    "title": "Spółka jawna",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "poswiadczenia",
+            "title": "Poświadczenia",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "wlasnorecznosc-podpisu",
+                    "title": "Własnoręczność podpisu",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "uznanie-podpisu-za-wlasnoreczny",
+                    "title": "Uznanie podpisu za własnoręczny",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "hipoteki",
+            "title": "Hipoteki",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "ustanowienie-hipoteki",
+                    "title": "Ustanowienie hipoteki",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "zmiana-tresci-hipoteki",
+                    "title": "Zmiana treści hipoteki",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "pelnomocnictwa",
+            "title": "Pełnomocnictwa",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "pelnomocnictwo-ogolne",
+                    "title": "Pełnomocnictwo ogólne",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "pelnomocnictwo-szczegolne",
+                    "title": "Pełnomocnictwo szczególne",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "sprawy-finansowe",
+            "title": "Sprawy finansowe",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "poddanie-sie-egzekucji",
+                    "title": "Poddanie się egzekucji",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "umowy-pozyczki",
+                    "title": "Umowy pożyczki",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "prawa-na-rzeczy-cudzej",
+            "title": "Prawa na rzeczy cudzej",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "ustanowienie-sluzebnosci-osobistej",
+                    "title": "Ustanowienie służebności osobistej",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "ustanowienie-sluzebnosci-gruntowej",
+                    "title": "Ustanowienie służebności gruntowej",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "protokoly",
+            "title": "Protokoły",
+            "icon": "money-check",
+            "type": "service-box",
+            "childs": [{
+                    "id": "protokoly-przyjecia-pieniedzy",
+                    "title": "Protokoły przyjęcia pieniędzy lub dokumentów lub informatycznego nośnika danych na przechowanie",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                },
+                {
+                    "id": "protokoly-przekazania-pieniedzy",
+                    "title": "Protokoły przekazania pieniędzy lub dokumentów lub informatycznego nośnika danych na przechowanie",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "asdczxczx"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "fundacje",
+            "title": "Fundacje",
+            "icon": "hand-holding-usd",
+            "type": "service-box",
+            "childs": [{
+                    "id": "ustanowienie-fundacji",
+                    "title": "Ustanowienie fundacji",
+                    "icon": "hand-holding-usd",
+                    "type": "service",
+                    "content": [{
+                        "type": "text",
+                        "text": "ytrytryrt"
+                    }, {
+                        "type": "image",
+                        "src": "https://picsum.photos/200/300"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "weksle-i-czeki",
+            "title": "Weksle i czeki",
+            "icon": "piggy-bank",
+            "type": "service",
+            "content": [{
+                "type": "text",
+                "text": "kkk"
+            }, {
+                "type": "image",
+                "src": "https://picsum.photos/200/300"
+            }]
+        }
+    ]
+}

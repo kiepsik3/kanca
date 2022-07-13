@@ -1,0 +1,25 @@
+.header.black * {
+  color: black;
+}
+.header-appointment {
+  color: white;
+  margin: 0 30px;
+  transition: all 0.3s;
+}
+.header-appointment > div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.header-appointment > div i {
+  margin-right: 16px;
+}
+.header-appointment > div span {
+  font-weight: 400;
+}
+.header .navbar.top-nav-collapse .header-appointment {
+  margin: 10px 30px;
+}
+.header .navbar.top-nav-collapse * {
+  color: white;
+}

@@ -1,0 +1,28 @@
+.visual-header {
+  padding: 100px 0 80px;
+  text-align: center;
+  background: url('http://www.sulecka.pl/images/tlo-1.png') no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.visual-header-mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.visual-header-eagle {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  background: url('http://www.notariuszrudnicka.pl/img/eagle.svg') no-repeat;
+  background-position: 14%;
+  background-size: 220px;
+}
+.visual-header h1 {
+  color: white;
+  text-transform: uppercase;
+  position: relative;
+}
