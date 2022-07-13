@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kanca/static/css/main.247286fd.chunk.css",
-    "main.js": "/kanca/static/js/main.48817368.chunk.js",
-    "main.js.map": "/kanca/static/js/main.48817368.chunk.js.map",
+    "main.js": "/kanca/static/js/main.05f0dd11.chunk.js",
+    "main.js.map": "/kanca/static/js/main.05f0dd11.chunk.js.map",
     "runtime-main.js": "/kanca/static/js/runtime-main.c3ab6565.js",
     "runtime-main.js.map": "/kanca/static/js/runtime-main.c3ab6565.js.map",
     "static/css/2.08229735.chunk.css": "/kanca/static/css/2.08229735.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.08229735.chunk.css",
     "static/js/2.b0611e4f.chunk.js",
     "static/css/main.247286fd.chunk.css",
-    "static/js/main.48817368.chunk.js"
+    "static/js/main.05f0dd11.chunk.js"
   ]
 }
